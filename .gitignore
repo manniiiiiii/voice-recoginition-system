@@ -1,0 +1,27 @@
+# 模型文件
+vosk-model-cn-0.22/
+vosk-model-cn-0.22.zip
+vosk-model-small-cn-0.22/
+vosk-model-small-cn-0.22.zip
+
+# 噪声数据
+NOISEX-92_mat/
+NOISEX-92_mat.zip
+noise_wav/
+
+# Python缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 临时音频文件
+temp_*.wav
+processed.wav
+denoised.wav
+
+# 测试结果（如果你要保留，可以去掉这行）
+test_results/
+
+# IDE配置
+.vscode/
+.idea/
