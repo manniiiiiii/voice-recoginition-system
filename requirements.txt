@@ -1,0 +1,8 @@
+vosk
+pyaudio
+librosa
+soundfile
+numpy
+noisereduce
+pandas
+openpyxl
